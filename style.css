@@ -1,0 +1,55 @@
+div{
+	color: #0000ff;
+	font-size: 50px;
+}
+#logo {
+	border: 5px solid black;
+	display: inline;
+}
+a:hover{
+	color: yellow;
+}
+span{ 
+    font-size: 50px;
+}
+#area{
+	background-color: purple;
+	width: 250px;
+	height: 90px;
+    font-size: 80px;
+    vertical-align: -webkit-baseline-middle;
+}
+#Hey{
+	width: 150px;
+	height: 70px;
+	font-size: 40px;
+	background-color: yellow;
+	position: fixed;
+	top : 156px;
+	right : 478px;
+}
+#Hy{
+    width: 300px;
+    height: 70px;
+    font-size: 40px; 
+    background-color: blue;
+	position: fixed;
+	top : 359px;
+	right : 258px;
+}
+#He{
+	width: 300px;
+    height: 70px;
+    font-size: 40px; 
+    background-color: red;
+	position: fixed;
+	top : 231px;
+	right : 166px;
+}
+form
+{width: 500px
+}
+body{
+	background-image: url("http://pics.sc.chinaz.com/files/pic/pic9/201507/apic13323.jpg");
+    
+}
